@@ -1,0 +1,22 @@
+{
+    "fatjet": {
+        "pt": 100.0,
+        "eta": 1.1
+    },
+    "subjet0": {
+        "DL1r_pu": 0.5,
+        "DL1r_pc": 0.5,
+        "DL1r_pb": 0.5
+    },
+    "subjet1": {
+        "DL1r_pu": 0.5,
+        "DL1r_pc": 0.5,
+        "DL1r_pb": 0.5
+    },
+    "subjet2": {
+        "DL1r_pu": 0.5,
+        "DL1r_pc": 0.5,
+        "DL1r_pb": 0.5
+    }
+
+}

@@ -1,0 +1,11 @@
+The order of the outputs is [QCD,Higgs,Top].
+
+The order of 4 inputs for model JK_DL1r is scaled :
+fatjet: ['pt[GeV]','eta']
+subjet0: ['DL1rT_pu_1', 'DL1rT_pc_1', 'DL1rT_pb_1']
+subjet1: ['DL1rT_pu_2', 'DL1rT_pc_2', 'DL1rT_pb_2']
+subjet2: ['DL1rT_pu_3', 'DL1rT_pc_3', 'DL1rT_pb_3']
+
+The mean and std in meanstd.h5 file for scaling is in order:
+['pt[GeV]','eta','DL1rT_pu_1', 'DL1rT_pc_1', 'DL1rT_pb_1','DL1rT_pu_2', 'DL1rT_pc_2', 'DL1rT_pb_2','DL1rT_pu_3', 'DL1rT_pc_3', 'DL1rT_pb_3','binned_dl1r_1','binned_dl1r_2','binned_dl1r_3']
+
